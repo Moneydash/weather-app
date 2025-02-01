@@ -57,7 +57,7 @@ const Home: React.FC = () => {
       <div className="home">
         <LanguageSwitcher />
         <SearchBar onSearch={handleSearch} />
-        <h1>{t('weatherApp')}</h1>
+        <h1>{t('todaysForecast')}</h1>
         <div>
           {weatherData.map((weather, index) => (
             <WeatherCard 
