@@ -18,7 +18,7 @@ This Weather App is built using TypeScript, Vite, and React. It provides users w
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Moneydash/weather-app.git
    ```
 2. Navigate to the project directory:
    ```bash
